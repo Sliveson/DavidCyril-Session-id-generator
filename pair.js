@@ -57,27 +57,26 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by UCHIHA CLAN*
-*_Made With 🚬🗿_*
+*_Pair Code Connected by ♪SUBARU-MD♪*
+*_Made With DEEP THOUGHTS🌚_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『 AMAZING YOU'VE CHOSEN ♪SUBARU-MD♪ 』*
+║ _You Have Completed the First Step to Deploy our Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com_
-║❒ *Owner:* _https://wa.me/2349066528353_
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *BOT-NAME:* _♪SUBARU-MD♪
+║❒ *Owner:* _https://wa.me/918761888106_
 ║❒ *Repo:* _https://github.com/DeeCeeXxx/Itachi-Uchiha
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vakxzdf7oQhll9dE2S0t
+║❒_`STAY CONNECTED WITH ♪SUBARU-MD♪`_
 ╚════════════════════════╝
 _____________________________________
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
- 
+
 
         await delay(100);
         await Pair_Code_By_Gifted_Tech.ws.close();

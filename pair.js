@@ -69,7 +69,7 @@ ______________________________________
 ║❒ *BOT-NAME:* _♪SUBARU-MD♪
 ║❒ *Owner:* _https://wa.me/918761888106_
 ║❒ *Repo:* _https://github.com/DeeCeeXxx/Itachi-Uchiha
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vakxzdf7oQhll9dE2S0t
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029ValPSO34Y9lhVbjaUo3V
 ║❒_`STAY CONNECTED WITH ♪SUBARU-MD♪`_
 ╚════════════════════════╝
 _____________________________________
